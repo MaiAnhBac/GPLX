@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPLX</string>
+    <style name="Apptheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+</resources>
